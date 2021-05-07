@@ -1,0 +1,842 @@
+[00:00:00.000] 2236   ****   Falcon 4.0   ****    
+[00:00:00.000] 2236   ****   (C) 2021 Billion Soft (Hong Kong) Limited. All Rights Reserved.   ****
+
+[00:00:00.000] 2236   ****   Falcon BMS 4.35.1 (x64) Build 23064   ****
+[00:00:00.000] 2236   ****   (C) 2021 Benchmark Sims. All Rights Reserved.   ****
+
+[00:00:00.000] 2236 Operating System: Windows 10 (10.0.19041)
+
+[00:00:00.000] 2236 Valid F4 installation found [D:\Game File\Steam\steamapps\common\Falcon 4.0\falcon4.exe]
+[00:00:00.000] 2236 Create window at 0, 0 with size 1024x768 (client) 1042x815 (window)
+[00:00:00.000] 2236 WM_SIZE 0x0 to 1024x768
+[00:00:00.000] 2236 SIZE_RESTORED other (SetWindowPos, mSwapChain->SetFullscreenState...)
+[00:00:00.000] 2236 SIZE_RESTORED handle resize 0x0 to 1024x768
+[00:00:00.000] 2236 WM_MOVE 0|0 to 0|0 (client pos to 9|38) delta -9|-38 for style -1865809920
+[00:00:00.000] 2236 FalconMainWindowD3D11::handleOnActivate 0->1
+[00:00:00.000] 2236 WM_ACTIVATEAPP 1, previous active window thread 452
+[00:00:00.000] 2236 WM_ACTIVATE 1 (minimized state 0), window handle being deactivated 0
+[00:00:00.000] 2236 SystemLevelInit
+[00:00:00.000] 2236 Initializing Sim Memory Pools....
+[00:00:00.000] 2236 DeviceIndependentGraphicsSetup ##
+[00:00:00.000] 2236 TheLoader Setup ##
+[00:00:00.000] 2236 Loading texture_POLAK.bin with 238 sets, 3251 tiles
+[00:00:00.000] 2236 Flush References - start Cleanup if we don't get anything below in log, something wrong in here ##
+[00:00:00.000] 2236 FlushReferences Cleanup ##
+[00:00:00.000] 2236 ObjectLOD Cleanup ##
+[00:00:00.000] 2236 TheTextureBank Cleanup ##
+[00:00:00.000] 2236 ThePaletteBank Cleanup ##
+[00:00:00.000] 2236 TheColorBank Cleanup ##
+[00:00:00.000] 2236 Info: 3DDB is *new* format (more than 2GB supported)
+[00:00:00.000] 2236 Terrain: Load
+[00:00:00.000] 2236 Terrain max texID: 3805
+[00:00:00.000] 2236 Theater's installed: Terrdata\theaterdefinition\Korea KTO.tdf 
+[00:00:00.000] 2236 Theater's installed: Add-On Korea TvT\Terrdata\theaterdefinition\Korea_TvT.tdf 
+[00:00:00.000] 2236 GetCurrentTheater Korea KTO
+[00:00:00.000] 2236 TheaterReload
+[00:00:00.000] 2236 theaterPath 'D:\Game File\Falcon BMS 4.35\Data\Terrdata\korea'
+[00:00:00.000] 2236 terrainPath 'D:\Game File\Falcon BMS 4.35\Data\Terrdata\korea\terrain'
+[00:00:00.000] 2236 Loading texture_POLAK.bin with 238 sets, 3251 tiles
+[00:00:00.000] 2236 objectPath 'D:\Game File\Falcon BMS 4.35\Data\Terrdata\objects\KoreaObj'
+[00:00:00.000] 2236 Flush References - start Cleanup if we don't get anything below in log, something wrong in here ##
+[00:00:00.000] 2236 FlushReferences Cleanup ##
+[00:00:00.000] 2236 ObjectLOD Cleanup ##
+[00:00:00.000] 2236 TheTextureBank Cleanup ##
+[00:00:00.000] 2236 ThePaletteBank Cleanup ##
+[00:00:00.000] 2236 TheColorBank Cleanup ##
+[00:00:00.000] 2236 Info: 3DDB is *new* format (more than 2GB supported)
+[00:00:00.000] 2236 GetCurrentTheater Korea KTO
+[00:00:00.000] 2236 Reading CT  data from XML -> D:\Game File\Falcon BMS 4.35\Data\Terrdata\objects\Falcon4_CT.XML
+[00:00:00.000] 2236 Reading CT  data from XML -> Done,   3801 entries
+[00:00:00.000] 2236 Reading UCD data from XML -> D:\Game File\Falcon BMS 4.35\Data\Terrdata\objects\Falcon4_UCD.XML
+[00:00:00.000] 2236 Reading UCD data from XML -> Done,    582 entries
+[00:00:00.000] 2236 Reading FED data from XML -> D:\Game File\Falcon BMS 4.35\Data\Terrdata\objects\Falcon4_FED.XML
+[00:00:00.000] 2236 Reading FED data from XML -> Done,  18999 entries
+[00:00:00.000] 2236 Reading OCD data from XML -> D:\Game File\Falcon BMS 4.35\Data\Terrdata\objects\Falcon4_OCD.XML
+[00:00:00.000] 2236 Reading OCD data from XML -> Done,    640 entries
+[00:00:00.000] 2236 Reading WCD data from XML -> D:\Game File\Falcon BMS 4.35\Data\Terrdata\objects\Falcon4_WCD.XML
+[00:00:00.000] 2236 Reading WCD data from XML -> Done,    698 entries
+[00:00:00.000] 2236 Reading FCD data from XML -> D:\Game File\Falcon BMS 4.35\Data\Terrdata\objects\Falcon4_FCD.XML
+[00:00:00.000] 2236 Reading FCD data from XML -> Done,   1194 entries
+[00:00:00.000] 2236 Reading VCD data from XML -> D:\Game File\Falcon BMS 4.35\Data\Terrdata\objects\Falcon4_VCD.XML
+[00:00:00.000] 2236 Reading VCD data from XML -> Done,    423 entries
+[00:00:00.000] 2236 Reading WLD data from XML -> D:\Game File\Falcon BMS 4.35\Data\Terrdata\objects\Falcon4_WLD.XML
+[00:00:00.000] 2236 Reading WLD data from XML -> Done,    558 entries
+[00:00:00.000] 2236 Reading PHD data from XML -> D:\Game File\Falcon BMS 4.35\Data\Terrdata\objects\Falcon4_PHD.XML
+[00:00:00.000] 2236 Reading PHD data from XML -> Done,    743 entries
+[00:00:00.000] 2236 Reading PDX data from XML -> D:\Game File\Falcon BMS 4.35\Data\Terrdata\objects\Falcon4_PDX.XML
+[00:00:00.000] 2236 Reading PDX data from XML -> Done,  30455 entries
+[00:00:00.000] 2236 Reading RCD data from XML -> D:\Game File\Falcon BMS 4.35\Data\Terrdata\objects\Falcon4_RCD.XML
+[00:00:00.000] 2236 Reading RCD data from XML -> Done,    124 entries
+[00:00:00.000] 2236 Reading ICD data from XML -> D:\Game File\Falcon BMS 4.35\Data\Terrdata\objects\Falcon4_ICD.XML
+[00:00:00.000] 2236 Reading ICD data from XML -> Done,     62 entries
+[00:00:00.000] 2236 Reading RWD data from XML -> D:\Game File\Falcon BMS 4.35\Data\Terrdata\objects\Falcon4_RWD.XML
+[00:00:00.000] 2236 Reading RWD data from XML -> Done,     63 entries
+[00:00:00.000] 2236 Reading VSD data from XML -> D:\Game File\Falcon BMS 4.35\Data\Terrdata\objects\Falcon4_VSD.XML
+[00:00:00.000] 2236 Reading VSD data from XML -> Done,     17 entries
+[00:00:00.000] 2236 Reading SWD data from XML -> D:\Game File\Falcon BMS 4.35\Data\Terrdata\objects\Falcon4_SWD.XML
+[00:00:00.000] 2236 Reading SWD data from XML -> Done,    361 entries
+[00:00:00.000] 2236 Reading ACD data from XML -> D:\Game File\Falcon BMS 4.35\Data\Terrdata\objects\Falcon4_ACD.XML
+[00:00:00.000] 2236 Reading ACD data from XML -> Done,    187 entries
+[00:00:00.000] 2236 Reading SSD data from XML -> D:\Game File\Falcon BMS 4.35\Data\Terrdata\objects\Falcon4_SSD.XML
+[00:00:00.000] 2236 Reading SSD data from XML -> Done,     98 entries
+[00:00:00.000] 2236 Reading RKT data from XML -> D:\Game File\Falcon BMS 4.35\Data\Terrdata\objects\Falcon4_RKT.XML
+[00:00:00.000] 2236 Reading RKT data from XML -> Done,     28 entries
+[00:00:00.000] 2236 Reading DDP data from XML -> D:\Game File\Falcon BMS 4.35\Data\Terrdata\objects\Falcon4_DDP.XML
+[00:00:00.000] 2236 Reading DDP data from XML -> Done,    202 entries
+[00:00:00.000] 2236 ------------------------------------------------------------------------------
+[00:00:00.000] 2236 Loading XMLs took ~ 0.518 seconds
+[00:00:00.000] 2236 ------------------------------------------------------------------------------
+[00:00:00.000] 2236 Reading Mission data from XML -> D:\Game File\Falcon BMS 4.35\Data\Campaign\MissionData_XX.XML
+[00:00:00.000] 2236 Could not open visid.map 
+[00:00:00.000] 2236 Terrain: Unload
+[00:00:00.000] 2236 Terrain: Load
+[00:00:00.000] 2236 Terrain max texID: 3805
+[00:00:00.000] 2236 SoundDriver 0x000000001633BAF0
+[00:00:00.000] 2236 Sound SetCooperativeLevel HWND=0x60710
+[00:00:00.000] 2236 CreateSoundBuffer
+[00:00:00.000] 2236 QueryInterface IID_IDirectSound3DListener
+[00:00:00.000] 2236 Listener SetDistanceFactor
+[00:00:00.000] 2236 Reading comm data from XML -> D:\Game File\Falcon BMS 4.35\Data\Sounds\commfile.xml
+[00:00:00.000] 2236 Reading eval data from XML -> D:\Game File\Falcon BMS 4.35\Data\Sounds\evalfile.xml
+[00:00:00.000] 2236 Reading frag data from XML -> D:\Game File\Falcon BMS 4.35\Data\Sounds\fragfile.xml
+[00:00:00.000] 2236 Loading sound table
+[00:00:00.000] 2236 SFX loading took 1597 ticks
+[00:00:00.000] 2236 Version: R23064. 1.35.EBS.4_ | Feb 14 2021 | 16:46:08 | MSVC 1916
+[00:00:00.000] 2236 Couldn't open Pagan rules file, loading default rules instead
+[00:00:00.000] 2236 GlobalSimpleThread starting 7 worker threads
+[00:00:00.000] 2236 SystemLevelInit finished
+[00:00:00.000] 2236 SimulationLoopControl::StartSim
+[00:00:00.000] 2236 #Checksum ac.dat 30356dd9
+[00:00:00.000] 2236 * SplashScreen has been visible for 3.6 seconds
+[00:00:00.000] 2236 * ..continue showing it for another 2.4 seconds
+[00:00:00.000] 2236 3D device is not set up; checking DXGI and D3D11 support...
+[00:00:00.000] 2236 Found DXGI support
+[00:00:00.000] 2236 Created DXGIFactory
+[00:00:00.000] 2236 Enumerating available adapters...
+[00:00:00.000] 2236 Adapter: 0, Name: NVIDIA GeForce RTX 2070 SUPER, DedicatedVideoMemory: 8011 MB, DedicatedSystemMemory: 0 MB, SharedSystemMemory: 16351 MB
+[00:00:00.000] 2236 Adapter: 1, Name: Microsoft Basic Render Driver, DedicatedVideoMemory: 0 MB, DedicatedSystemMemory: 0 MB, SharedSystemMemory: 16351 MB
+[00:00:00.000] 2236 Selecting adapter 0 from user settings
+[00:00:00.000] 2236 RendererD3D11::cleanupDeviceResources...
+[00:00:00.000] 2236 DeviceDependentGraphicsCleanup(nullptr);
+[00:00:00.000] 2236 DeviceDependentGraphicsCleanup ##
+[00:00:00.000] 2236 TheTextureBank.onDestroyDevice(), ObjectParent::FlushReferences() command count: 0
+[00:00:00.000] 2236 ThePaletteBank.FlushHandles()
+[00:00:00.000] 2236 GlobalSimpleThread.WaitForLoader()
+[00:00:00.000] 2236 DeviceDependentGraphicsCleanup DONE ##
+[00:00:00.000] 2236 TextureManager::onDestoyDevice size: 0
+[00:00:00.000] 2236 TextureBankClass::DelayedRelease(force)
+[00:00:00.000] 2236 Release 0 delayed resources
+[00:00:00.000] 2236 Release 0 delayed resources DONE
+[00:00:00.000] 2236 SwapChainImageBufferD3D11::Cleanup cleaning back buffer view 0000000000000000
+[00:00:00.000] 2236 Upcoming device release. 0 delayed resources.
+[00:00:00.000] 2236 RendererD3D11::cleanupDeviceResources...ok
+[00:00:00.000] 2236 RendererD3D11::createDeviceOnAdapter(): Creating 3D device on adapter 0: NVIDIA GeForce RTX 2070 SUPER
+[00:00:00.000] 2236 RendererD3D11::restoreDeviceResources...
+[00:00:00.000] 2236 TextureManager::onCreateDevice size: 26
+[00:00:00.000] 2236 Font(0) size 10 height 13.000000
+[00:00:00.000] 2236 Font(1) size 12 height 16.000000
+[00:00:00.000] 2236 Font(2) size 10 height 13.000000
+[00:00:00.000] 2236 Font(3) size 12 height 16.000000
+[00:00:00.000] 2236 Font(4) size 12 height 16.000000
+[00:00:00.000] 2236 DeviceDependentGraphicsSetup ##
+[00:00:00.000] 2236 MaterialManager::restoreDeviceResources():
+[00:00:00.000] 2236 MaterialManager::restoreDeviceResources() took 0.00 seconds
+[00:00:00.000] 2236 RendererD3D11::restoreDeviceResources...ok)
+[00:00:00.000] 2236 Run message loop
+[00:00:00.000] 2236 WM_SIZE 1024x768 to 1024x768
+[00:00:00.000] 2236 SIZE_RESTORED other (SetWindowPos, mSwapChain->SetFullscreenState...)
+[00:00:00.000] 2236 SIZE_RESTORED handle resize 1024x768 to 1024x768
+[00:00:00.000] 2236 SetFlyState 0
+[00:00:00.000] 2236 UI_Startup
+[00:00:00.000] 2236 RendererD3D11::setDisplayMode: adapter 0, output 0, left 0, top 0, width 1024, height 768, fullscreen 0, backBufferCount 2, vsync 1, msaaSampleCount 1, msaaQualityLevel 0, refreshRate (164056/1000), scaling 0, scanlineOrdering 1, surfaceFormat 87, thread 2236
+[00:00:00.000] 2236 Enumerating available multisampling levels
+[00:00:00.000] 2236 MSAA 1X supported with 1 quality levels
+[00:00:00.000] 2236 MSAA 2X supported with 1 quality levels
+[00:00:00.000] 2236 MSAA 4X supported with 1 quality levels
+[00:00:00.000] 2236 MSAA 8X supported with 1 quality levels
+[00:00:00.000] 2236 Selecting requested multisampling count (1 samples, quality level 0)
+[00:00:00.000] 2236 Requested window resolution: 1024x768
+[00:00:00.000] 2236 AppWindow::moveAndResize move from 0,0, to 0,0 and resize from 1024x768 to 1024x768
+[00:00:00.000] 2236 SwapChainImageBufferD3D11::Cleanup cleaning back buffer view 0000000000000000
+[00:00:00.000] 2236 SwapChainImageBufferD3D11::prepareBackBuffers...
+[00:00:00.000] 2236 S	6317.17 SwapChainImageBufferD3D11::prepareBackBuffers cleaning back buffer view 0000000000000000
+[00:00:00.000] 2236 S	6317.41 SwapChainImageBufferD3D11 created back buffer view 000000002DEDCEF8
+[00:00:00.000] 2236 SwapChainImageBufferD3D11::prepareBackBuffers...ok
+[00:00:00.000] 2236 RendererD3D11::restoreResolutionDependentDeviceResources...
+[00:00:00.000] 2236 RendererD3D11::restoreResolutionDependentDeviceResources...ok
+[00:00:00.000] 2236 RendererD3D11::setDisplayMode finished
+[00:00:00.000] 2236 gMainHandler was setup
+[00:00:00.000] 2236 Starting TimerLoop Thread 0x000000000495CEF0 
+[00:00:00.000] 2236 Starting OutputLoop Thread 0x000000000495D0A0 
+[00:00:00.000] 2236 Starting ControlLoop Thread 0x000000000495CE30 
+[00:00:00.000] 2236 UI_Startup finished
+[00:00:00.000] 2236 Adapter: 0, Name: NVIDIA GeForce RTX 2070 SUPER, DedicatedVideoMemory: 8011 MB, DedicatedSystemMemory: 0 MB, SharedSystemMemory: 16351 MB
+[00:00:00.000] 2236 Adapter: 1, Name: Microsoft Basic Render Driver, DedicatedVideoMemory: 0 MB, DedicatedSystemMemory: 0 MB, SharedSystemMemory: 16351 MB
+[00:00:00.000] 2236 DXGI adapter output enumeration:
+[00:00:00.000] 2236 Output: 0, DeviceName: \\.\DISPLAY2, AttachedToDesktop: 1, DesktopCoordinates(L,T,R,B): 0 0 2560 1440 (2560x1440)
+[00:00:00.000] 2236 Output: 1, DeviceName: \\.\DISPLAY1, AttachedToDesktop: 1, DesktopCoordinates(L,T,R,B): 2560 0 4480 1080 (1920x1080)
+[00:00:00.000] 2236 BuildResolutionList for stored mode: width 2560, height 1440, refreshRate (164056/1000), scaling 0, scanlineOrdering 1, surfaceFormat 87
+[00:00:00.000] 2236 BuildResolutionList found compatible mode: width 2560, height 1440, refreshRate (164056/1000), scaling 0, scanlineOrdering 1, surfaceFormat 87
+[00:00:00.000] 2236 DXGI adapter output mode enumeration:
+[00:00:00.000] 2236 Mode 0: Resolution: 640x480, Hz: 59940/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 1: Resolution: 640x480, Hz: 60000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 2: Resolution: 640x480, Hz: 75000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 3: Resolution: 640x480, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 4: Resolution: 640x480, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 5: Resolution: 640x480, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 6: Resolution: 720x480, Hz: 59940/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 7: Resolution: 720x480, Hz: 60000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 8: Resolution: 720x480, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 9: Resolution: 720x480, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 10: Resolution: 720x480, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 11: Resolution: 720x576, Hz: 50000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 12: Resolution: 720x576, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 13: Resolution: 720x576, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 14: Resolution: 720x576, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 15: Resolution: 800x600, Hz: 60317/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 16: Resolution: 800x600, Hz: 75000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 17: Resolution: 800x600, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 18: Resolution: 800x600, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 19: Resolution: 800x600, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 20: Resolution: 1024x768, Hz: 60004/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 21: Resolution: 1024x768, Hz: 75029/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 22: Resolution: 1024x768, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 23: Resolution: 1024x768, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 24: Resolution: 1024x768, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 25: Resolution: 1152x864, Hz: 75000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 26: Resolution: 1152x864, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 27: Resolution: 1152x864, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 28: Resolution: 1152x864, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 29: Resolution: 1176x664, Hz: 50000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 30: Resolution: 1176x664, Hz: 50000/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 31: Resolution: 1176x664, Hz: 50000/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 32: Resolution: 1176x664, Hz: 59940/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 33: Resolution: 1176x664, Hz: 59940/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 34: Resolution: 1176x664, Hz: 59940/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 35: Resolution: 1176x664, Hz: 60000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 36: Resolution: 1176x664, Hz: 60000/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 37: Resolution: 1176x664, Hz: 60000/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 38: Resolution: 1280x720, Hz: 50000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 39: Resolution: 1280x720, Hz: 59940/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 40: Resolution: 1280x720, Hz: 60000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 41: Resolution: 1280x720, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 42: Resolution: 1280x720, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 43: Resolution: 1280x720, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 44: Resolution: 1280x768, Hz: 59810/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 45: Resolution: 1280x768, Hz: 59810/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 46: Resolution: 1280x768, Hz: 59810/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 47: Resolution: 1280x768, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 48: Resolution: 1280x768, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 49: Resolution: 1280x768, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 50: Resolution: 1280x800, Hz: 59810/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 51: Resolution: 1280x800, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 52: Resolution: 1280x800, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 53: Resolution: 1280x800, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 54: Resolution: 1280x960, Hz: 60020/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 55: Resolution: 1280x960, Hz: 60020/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 56: Resolution: 1280x960, Hz: 60020/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 57: Resolution: 1280x960, Hz: 75025/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 58: Resolution: 1280x960, Hz: 75025/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 59: Resolution: 1280x960, Hz: 75025/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 60: Resolution: 1280x960, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 61: Resolution: 1280x960, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 62: Resolution: 1280x960, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 63: Resolution: 1280x1024, Hz: 60020/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 64: Resolution: 1280x1024, Hz: 75025/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 65: Resolution: 1280x1024, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 66: Resolution: 1280x1024, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 67: Resolution: 1280x1024, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 68: Resolution: 1360x768, Hz: 59954/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 69: Resolution: 1360x768, Hz: 59954/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 70: Resolution: 1360x768, Hz: 59954/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 71: Resolution: 1360x768, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 72: Resolution: 1360x768, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 73: Resolution: 1360x768, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 74: Resolution: 1366x768, Hz: 59954/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 75: Resolution: 1366x768, Hz: 59954/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 76: Resolution: 1366x768, Hz: 59954/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 77: Resolution: 1366x768, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 78: Resolution: 1366x768, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 79: Resolution: 1366x768, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 80: Resolution: 1440x900, Hz: 59954/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 81: Resolution: 1440x900, Hz: 59954/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 82: Resolution: 1440x900, Hz: 59954/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 83: Resolution: 1440x900, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 84: Resolution: 1440x900, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 85: Resolution: 1440x900, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 86: Resolution: 1600x900, Hz: 59954/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 87: Resolution: 1600x900, Hz: 59954/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 88: Resolution: 1600x900, Hz: 59954/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 89: Resolution: 1600x900, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 90: Resolution: 1600x900, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 91: Resolution: 1600x900, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 92: Resolution: 1600x1024, Hz: 59954/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 93: Resolution: 1600x1024, Hz: 59954/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 94: Resolution: 1600x1024, Hz: 59954/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 95: Resolution: 1600x1024, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 96: Resolution: 1600x1024, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 97: Resolution: 1600x1024, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 98: Resolution: 1600x1200, Hz: 60000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 99: Resolution: 1600x1200, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 100: Resolution: 1600x1200, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 101: Resolution: 1600x1200, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 102: Resolution: 1680x1050, Hz: 59954/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 103: Resolution: 1680x1050, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 104: Resolution: 1680x1050, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 105: Resolution: 1680x1050, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 106: Resolution: 1920x1080, Hz: 50000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 107: Resolution: 1920x1080, Hz: 59940/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 108: Resolution: 1920x1080, Hz: 60000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 109: Resolution: 1920x1080, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 110: Resolution: 1920x1080, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 111: Resolution: 1920x1080, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 112: Resolution: 1920x1200, Hz: 59885/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 113: Resolution: 1920x1200, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 114: Resolution: 1920x1200, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 115: Resolution: 1920x1200, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 116: Resolution: 1920x1440, Hz: 59951/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 117: Resolution: 1920x1440, Hz: 59951/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 118: Resolution: 1920x1440, Hz: 59951/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 119: Resolution: 1920x1440, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 120: Resolution: 1920x1440, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 121: Resolution: 1920x1440, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 122: Resolution: 2560x1440, Hz: 59951/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 123: Resolution: 2560x1440, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 640x480p 59.94 Hz : skipped
+[00:00:00.000] 2236 640x480p 60.00 Hz : skipped
+[00:00:00.000] 2236 640x480p 75.00 Hz : skipped
+[00:00:00.000] 2236 640x480p 164.06 Hz : skipped
+[00:00:00.000] 2236 640x480p 164.06 Hz centered: skipped
+[00:00:00.000] 2236 640x480p 164.06 Hz stretched: skipped
+[00:00:00.000] 2236 720x480p 59.94 Hz : skipped
+[00:00:00.000] 2236 720x480p 60.00 Hz : skipped
+[00:00:00.000] 2236 720x480p 164.06 Hz : skipped
+[00:00:00.000] 2236 720x480p 164.06 Hz centered: skipped
+[00:00:00.000] 2236 720x480p 164.06 Hz stretched: skipped
+[00:00:00.000] 2236 720x576p 50.00 Hz : skipped
+[00:00:00.000] 2236 720x576p 164.06 Hz : skipped
+[00:00:00.000] 2236 720x576p 164.06 Hz centered: skipped
+[00:00:00.000] 2236 720x576p 164.06 Hz stretched: skipped
+[00:00:00.000] 2236 800x600p 60.32 Hz : skipped
+[00:00:00.000] 2236 800x600p 75.00 Hz : skipped
+[00:00:00.000] 2236 800x600p 164.06 Hz : skipped
+[00:00:00.000] 2236 800x600p 164.06 Hz centered: skipped
+[00:00:00.000] 2236 800x600p 164.06 Hz stretched: skipped
+[00:00:00.000] 2236 1024x768p 60.00 Hz 
+[00:00:00.000] 2236 1024x768p 75.03 Hz 
+[00:00:00.000] 2236 1024x768p 164.06 Hz 
+[00:00:00.000] 2236 1024x768p 164.06 Hz centered
+[00:00:00.000] 2236 1024x768p 164.06 Hz stretched
+[00:00:00.000] 2236 1152x864p 75.00 Hz 
+[00:00:00.000] 2236 1152x864p 164.06 Hz 
+[00:00:00.000] 2236 1152x864p 164.06 Hz centered
+[00:00:00.000] 2236 1152x864p 164.06 Hz stretched
+[00:00:00.000] 2236 1176x664p 50.00 Hz 
+[00:00:00.000] 2236 1176x664p 50.00 Hz centered
+[00:00:00.000] 2236 1176x664p 50.00 Hz stretched
+[00:00:00.000] 2236 1176x664p 59.94 Hz 
+[00:00:00.000] 2236 1176x664p 59.94 Hz centered
+[00:00:00.000] 2236 1176x664p 59.94 Hz stretched
+[00:00:00.000] 2236 1176x664p 60.00 Hz 
+[00:00:00.000] 2236 1176x664p 60.00 Hz centered
+[00:00:00.000] 2236 1176x664p 60.00 Hz stretched
+[00:00:00.000] 2236 1280x720p 50.00 Hz 
+[00:00:00.000] 2236 1280x720p 59.94 Hz 
+[00:00:00.000] 2236 1280x720p 60.00 Hz 
+[00:00:00.000] 2236 1280x720p 164.06 Hz 
+[00:00:00.000] 2236 1280x720p 164.06 Hz centered
+[00:00:00.000] 2236 1280x720p 164.06 Hz stretched
+[00:00:00.000] 2236 1280x768p 59.81 Hz 
+[00:00:00.000] 2236 1280x768p 59.81 Hz centered
+[00:00:00.000] 2236 1280x768p 59.81 Hz stretched
+[00:00:00.000] 2236 1280x768p 164.06 Hz 
+[00:00:00.000] 2236 1280x768p 164.06 Hz centered
+[00:00:00.000] 2236 1280x768p 164.06 Hz stretched
+[00:00:00.000] 2236 1280x800p 59.81 Hz 
+[00:00:00.000] 2236 1280x800p 164.06 Hz 
+[00:00:00.000] 2236 1280x800p 164.06 Hz centered
+[00:00:00.000] 2236 1280x800p 164.06 Hz stretched
+[00:00:00.000] 2236 1280x960p 60.02 Hz 
+[00:00:00.000] 2236 1280x960p 60.02 Hz centered
+[00:00:00.000] 2236 1280x960p 60.02 Hz stretched
+[00:00:00.000] 2236 1280x960p 75.03 Hz 
+[00:00:00.000] 2236 1280x960p 75.03 Hz centered
+[00:00:00.000] 2236 1280x960p 75.03 Hz stretched
+[00:00:00.000] 2236 1280x960p 164.06 Hz 
+[00:00:00.000] 2236 1280x960p 164.06 Hz centered
+[00:00:00.000] 2236 1280x960p 164.06 Hz stretched
+[00:00:00.000] 2236 1280x1024p 60.02 Hz 
+[00:00:00.000] 2236 1280x1024p 75.03 Hz 
+[00:00:00.000] 2236 1280x1024p 164.06 Hz 
+[00:00:00.000] 2236 1280x1024p 164.06 Hz centered
+[00:00:00.000] 2236 1280x1024p 164.06 Hz stretched
+[00:00:00.000] 2236 1360x768p 59.95 Hz 
+[00:00:00.000] 2236 1360x768p 59.95 Hz centered
+[00:00:00.000] 2236 1360x768p 59.95 Hz stretched
+[00:00:00.000] 2236 1360x768p 164.06 Hz 
+[00:00:00.000] 2236 1360x768p 164.06 Hz centered
+[00:00:00.000] 2236 1360x768p 164.06 Hz stretched
+[00:00:00.000] 2236 1366x768p 59.95 Hz 
+[00:00:00.000] 2236 1366x768p 59.95 Hz centered
+[00:00:00.000] 2236 1366x768p 59.95 Hz stretched
+[00:00:00.000] 2236 1366x768p 164.06 Hz 
+[00:00:00.000] 2236 1366x768p 164.06 Hz centered
+[00:00:00.000] 2236 1366x768p 164.06 Hz stretched
+[00:00:00.000] 2236 1440x900p 59.95 Hz 
+[00:00:00.000] 2236 1440x900p 59.95 Hz centered
+[00:00:00.000] 2236 1440x900p 59.95 Hz stretched
+[00:00:00.000] 2236 1440x900p 164.06 Hz 
+[00:00:00.000] 2236 1440x900p 164.06 Hz centered
+[00:00:00.000] 2236 1440x900p 164.06 Hz stretched
+[00:00:00.000] 2236 1600x900p 59.95 Hz 
+[00:00:00.000] 2236 1600x900p 59.95 Hz centered
+[00:00:00.000] 2236 1600x900p 59.95 Hz stretched
+[00:00:00.000] 2236 1600x900p 164.06 Hz 
+[00:00:00.000] 2236 1600x900p 164.06 Hz centered
+[00:00:00.000] 2236 1600x900p 164.06 Hz stretched
+[00:00:00.000] 2236 1600x1024p 59.95 Hz 
+[00:00:00.000] 2236 1600x1024p 59.95 Hz centered
+[00:00:00.000] 2236 1600x1024p 59.95 Hz stretched
+[00:00:00.000] 2236 1600x1024p 164.06 Hz 
+[00:00:00.000] 2236 1600x1024p 164.06 Hz centered
+[00:00:00.000] 2236 1600x1024p 164.06 Hz stretched
+[00:00:00.000] 2236 1600x1200p 60.00 Hz 
+[00:00:00.000] 2236 1600x1200p 164.06 Hz 
+[00:00:00.000] 2236 1600x1200p 164.06 Hz centered
+[00:00:00.000] 2236 1600x1200p 164.06 Hz stretched
+[00:00:00.000] 2236 1680x1050p 59.95 Hz 
+[00:00:00.000] 2236 1680x1050p 164.06 Hz 
+[00:00:00.000] 2236 1680x1050p 164.06 Hz centered
+[00:00:00.000] 2236 1680x1050p 164.06 Hz stretched
+[00:00:00.000] 2236 1920x1080p 50.00 Hz 
+[00:00:00.000] 2236 1920x1080p 59.94 Hz 
+[00:00:00.000] 2236 1920x1080p 60.00 Hz 
+[00:00:00.000] 2236 1920x1080p 164.06 Hz 
+[00:00:00.000] 2236 1920x1080p 164.06 Hz centered
+[00:00:00.000] 2236 1920x1080p 164.06 Hz stretched
+[00:00:00.000] 2236 1920x1200p 59.88 Hz 
+[00:00:00.000] 2236 1920x1200p 164.06 Hz 
+[00:00:00.000] 2236 1920x1200p 164.06 Hz centered
+[00:00:00.000] 2236 1920x1200p 164.06 Hz stretched
+[00:00:00.000] 2236 1920x1440p 59.95 Hz 
+[00:00:00.000] 2236 1920x1440p 59.95 Hz centered
+[00:00:00.000] 2236 1920x1440p 59.95 Hz stretched
+[00:00:00.000] 2236 1920x1440p 164.06 Hz 
+[00:00:00.000] 2236 1920x1440p 164.06 Hz centered
+[00:00:00.000] 2236 1920x1440p 164.06 Hz stretched
+[00:00:00.000] 2236 2560x1440p 59.95 Hz 
+[00:00:00.000] 2236 2560x1440p 164.06 Hz : selected
+[00:00:00.000] 2236 MSAA 1X supported with 1 quality levels
+[00:00:00.000] 2236 MSAA 2X supported with 1 quality levels
+[00:00:00.000] 2236 MSAA 4X supported with 1 quality levels
+[00:00:00.000] 2236 MSAA 8X supported with 1 quality levels
+[00:00:00.000] 2236 Selecting requested multisampling count (1 samples, level 0)
+[00:00:00.000] 2236 SaveValues: UI window position 0|0
+[00:00:00.000] 2236 SaveValues: SIM window position 0|0
+[00:00:00.000] 2236 Adapter: 0, Name: NVIDIA GeForce RTX 2070 SUPER, DedicatedVideoMemory: 8011 MB, DedicatedSystemMemory: 0 MB, SharedSystemMemory: 16351 MB
+[00:00:00.000] 2236 Adapter: 1, Name: Microsoft Basic Render Driver, DedicatedVideoMemory: 0 MB, DedicatedSystemMemory: 0 MB, SharedSystemMemory: 16351 MB
+[00:00:00.000] 2236 DXGI adapter output enumeration:
+[00:00:00.000] 2236 Output: 0, DeviceName: \\.\DISPLAY2, AttachedToDesktop: 1, DesktopCoordinates(L,T,R,B): 0 0 2560 1440 (2560x1440)
+[00:00:00.000] 2236 Output: 1, DeviceName: \\.\DISPLAY1, AttachedToDesktop: 1, DesktopCoordinates(L,T,R,B): 2560 0 4480 1080 (1920x1080)
+[00:00:00.000] 2236 DXGI adapter output mode enumeration:
+[00:00:00.000] 2236 Mode 0: Resolution: 640x480, Hz: 59940/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 1: Resolution: 640x480, Hz: 60000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 2: Resolution: 640x480, Hz: 75000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 3: Resolution: 640x480, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 4: Resolution: 640x480, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 5: Resolution: 640x480, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 6: Resolution: 720x480, Hz: 59940/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 7: Resolution: 720x480, Hz: 60000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 8: Resolution: 720x480, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 9: Resolution: 720x480, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 10: Resolution: 720x480, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 11: Resolution: 720x576, Hz: 50000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 12: Resolution: 720x576, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 13: Resolution: 720x576, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 14: Resolution: 720x576, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 15: Resolution: 800x600, Hz: 60317/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 16: Resolution: 800x600, Hz: 75000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 17: Resolution: 800x600, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 18: Resolution: 800x600, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 19: Resolution: 800x600, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 20: Resolution: 1024x768, Hz: 60004/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 21: Resolution: 1024x768, Hz: 75029/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 22: Resolution: 1024x768, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 23: Resolution: 1024x768, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 24: Resolution: 1024x768, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 25: Resolution: 1152x864, Hz: 75000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 26: Resolution: 1152x864, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 27: Resolution: 1152x864, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 28: Resolution: 1152x864, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 29: Resolution: 1176x664, Hz: 50000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 30: Resolution: 1176x664, Hz: 50000/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 31: Resolution: 1176x664, Hz: 50000/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 32: Resolution: 1176x664, Hz: 59940/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 33: Resolution: 1176x664, Hz: 59940/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 34: Resolution: 1176x664, Hz: 59940/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 35: Resolution: 1176x664, Hz: 60000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 36: Resolution: 1176x664, Hz: 60000/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 37: Resolution: 1176x664, Hz: 60000/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 38: Resolution: 1280x720, Hz: 50000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 39: Resolution: 1280x720, Hz: 59940/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 40: Resolution: 1280x720, Hz: 60000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 41: Resolution: 1280x720, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 42: Resolution: 1280x720, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 43: Resolution: 1280x720, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 44: Resolution: 1280x768, Hz: 59810/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 45: Resolution: 1280x768, Hz: 59810/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 46: Resolution: 1280x768, Hz: 59810/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 47: Resolution: 1280x768, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 48: Resolution: 1280x768, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 49: Resolution: 1280x768, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 50: Resolution: 1280x800, Hz: 59810/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 51: Resolution: 1280x800, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 52: Resolution: 1280x800, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 53: Resolution: 1280x800, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 54: Resolution: 1280x960, Hz: 60020/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 55: Resolution: 1280x960, Hz: 60020/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 56: Resolution: 1280x960, Hz: 60020/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 57: Resolution: 1280x960, Hz: 75025/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 58: Resolution: 1280x960, Hz: 75025/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 59: Resolution: 1280x960, Hz: 75025/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 60: Resolution: 1280x960, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 61: Resolution: 1280x960, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 62: Resolution: 1280x960, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 63: Resolution: 1280x1024, Hz: 60020/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 64: Resolution: 1280x1024, Hz: 75025/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 65: Resolution: 1280x1024, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 66: Resolution: 1280x1024, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 67: Resolution: 1280x1024, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 68: Resolution: 1360x768, Hz: 59954/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 69: Resolution: 1360x768, Hz: 59954/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 70: Resolution: 1360x768, Hz: 59954/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 71: Resolution: 1360x768, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 72: Resolution: 1360x768, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 73: Resolution: 1360x768, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 74: Resolution: 1366x768, Hz: 59954/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 75: Resolution: 1366x768, Hz: 59954/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 76: Resolution: 1366x768, Hz: 59954/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 77: Resolution: 1366x768, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 78: Resolution: 1366x768, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 79: Resolution: 1366x768, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 80: Resolution: 1440x900, Hz: 59954/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 81: Resolution: 1440x900, Hz: 59954/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 82: Resolution: 1440x900, Hz: 59954/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 83: Resolution: 1440x900, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 84: Resolution: 1440x900, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 85: Resolution: 1440x900, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 86: Resolution: 1600x900, Hz: 59954/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 87: Resolution: 1600x900, Hz: 59954/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 88: Resolution: 1600x900, Hz: 59954/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 89: Resolution: 1600x900, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 90: Resolution: 1600x900, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 91: Resolution: 1600x900, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 92: Resolution: 1600x1024, Hz: 59954/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 93: Resolution: 1600x1024, Hz: 59954/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 94: Resolution: 1600x1024, Hz: 59954/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 95: Resolution: 1600x1024, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 96: Resolution: 1600x1024, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 97: Resolution: 1600x1024, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 98: Resolution: 1600x1200, Hz: 60000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 99: Resolution: 1600x1200, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 100: Resolution: 1600x1200, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 101: Resolution: 1600x1200, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 102: Resolution: 1680x1050, Hz: 59954/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 103: Resolution: 1680x1050, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 104: Resolution: 1680x1050, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 105: Resolution: 1680x1050, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 106: Resolution: 1920x1080, Hz: 50000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 107: Resolution: 1920x1080, Hz: 59940/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 108: Resolution: 1920x1080, Hz: 60000/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 109: Resolution: 1920x1080, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 110: Resolution: 1920x1080, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 111: Resolution: 1920x1080, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 112: Resolution: 1920x1200, Hz: 59885/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 113: Resolution: 1920x1200, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 114: Resolution: 1920x1200, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 115: Resolution: 1920x1200, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 116: Resolution: 1920x1440, Hz: 59951/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 117: Resolution: 1920x1440, Hz: 59951/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 118: Resolution: 1920x1440, Hz: 59951/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 119: Resolution: 1920x1440, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 120: Resolution: 1920x1440, Hz: 164056/1000, Scaling: 1, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 121: Resolution: 1920x1440, Hz: 164056/1000, Scaling: 2, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 122: Resolution: 2560x1440, Hz: 59951/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 Mode 123: Resolution: 2560x1440, Hz: 164056/1000, Scaling: 0, ScanlineOrdering: 1, Format: 87
+[00:00:00.000] 2236 SaveValues storing sim mode: width 2560, height 1440, refreshRate (164056/1000), scaling 0, scanlineOrdering 1, surfaceFormat 87
+[00:00:00.000] 2236 MSAA 1X supported with 1 quality levels
+[00:00:00.000] 2236 MSAA 2X supported with 1 quality levels
+[00:00:00.000] 2236 MSAA 4X supported with 1 quality levels
+[00:00:00.000] 2236 MSAA 8X supported with 1 quality levels
+[00:00:00.000] 2236 RendererD3D11::setDisplayMode: adapter 0, output 0, left 0, top 0, width 1024, height 768, fullscreen 0, backBufferCount 2, vsync 0, msaaSampleCount 1, msaaQualityLevel 0, refreshRate (164056/1000), scaling 0, scanlineOrdering 1, surfaceFormat 87, thread 2236
+[00:00:00.000] 2236 Enumerating available multisampling levels
+[00:00:00.000] 2236 MSAA 1X supported with 1 quality levels
+[00:00:00.000] 2236 MSAA 2X supported with 1 quality levels
+[00:00:00.000] 2236 MSAA 4X supported with 1 quality levels
+[00:00:00.000] 2236 MSAA 8X supported with 1 quality levels
+[00:00:00.000] 2236 Selecting requested multisampling count (1 samples, quality level 0)
+[00:00:00.000] 2236 Requested window resolution: 1024x768
+[00:00:00.000] 2236 AppWindow::moveAndResize move from 0,0, to 0,0 and resize from 1024x768 to 1024x768
+[00:00:00.000] 2236 SwapChainImageBufferD3D11::Cleanup cleaning back buffer view 000000002DEDCEF8
+[00:00:00.000] 2236 SwapChainImageBufferD3D11::prepareBackBuffers...
+[00:00:00.000] 2236 S	41692.30 SwapChainImageBufferD3D11::prepareBackBuffers cleaning back buffer view 0000000000000000
+[00:00:00.000] 2236 S	41692.54 SwapChainImageBufferD3D11 created back buffer view 000000002E26E238
+[00:00:00.000] 2236 SwapChainImageBufferD3D11::prepareBackBuffers...ok
+[00:00:00.000] 2236 RendererD3D11::restoreResolutionDependentDeviceResources...
+[00:00:00.000] 2236 RendererD3D11::restoreResolutionDependentDeviceResources...ok
+[00:00:00.000] 2236 RendererD3D11::setDisplayMode finished
+[00:00:00.000] 2236 Calling EndCampaign.. 
+[00:00:00.000] 2236 SetFlyState 0
+[01:00:00.000] 2236 ~ Try read mission.dat for scenarion: Instant
+[01:00:00.000] 2236 Reading Mission data from XML -> D:\Game File\Falcon BMS 4.35\Data\Campaign
+[01:00:00.000] 2236 Reading Mission data from XML -> D:\Game File\Falcon BMS 4.35\Data\Campaign -> File not found
+[01:00:00.000] 2236 NETWORK (3640.2): VuxGroupAddSession
+[01:00:00.000] 2236 NETWORK (3640.2): Adding Pagan to game: Uninitialized at D  0, 01:00:00
+[01:00:00.000] 2236 Weather Default Init
+[01:00:00.000] 2236 PILOT VOICE Photo Id 0 IS OUT OF RANGE with  voice 255 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 134 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 150 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 133 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 135 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 147 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 155 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 157 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 115 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 129 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 133 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 135 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 138 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 148 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 151 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 113 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 138 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 142 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 125 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 129 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 134 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 136 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 127 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 128 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 132 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 151 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 152 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 154 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 120 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 144 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 155 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 113 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 134 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 148 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 123 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 147 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 149 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 152 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 114 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 118 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 133 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 136 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 141 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 124 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 136 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 140 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 154 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 117 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 118 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 123 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 148 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 154 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 PILOT VOICE Photo Id 114 IS OUT OF RANGE with  voice 12 - REASSIGN 
+[01:00:00.000] 2236 Decode Unit Data 0 2d722ba0
+[01:00:00.000] 2236 Weather Default Init
+[01:00:00.000] 2236 NETWORK (3640.2): VuxGroupConnect
+[01:00:00.000] 2236 NETWORK (3640.2): Connecting to game: Uninitialized
+[01:00:00.000] 2236 NETWORK (3640.2): VuxGroupAddSession
+[01:00:00.000] 2236 NETWORK (3640.2): Adding Pagan to game: Uninitialized at D  0, 01:00:00
+[01:00:00.000] 2236 Rebuild occupation map
+[01:00:00.000] 2236 Got Scenario Stats.
+[01:00:00.000] 2236 Image [2001] Not found in O_Output::SetImage(ID) Control=(0)
+[01:00:00.000] 2236 SetFlyState 1
+[03:00:00.000] 2236 Create Flight 476,726 0 [03:00:00.000] 2236 => 476,727 (0 Skill)
+[03:00:00.000] 2236 Create Flight 476,726 0 [03:00:00.000] 2236 => 483,738 (0 Skill)
+[03:00:00.000] 2236 Starting.. 3640223
+[03:00:00.000] 2236 UI_Cleanup
+[03:00:00.000] 2236 UI_Cleanup finished
+[03:00:00.000] 2236 CHAT Pagan entered
+[03:00:00.000] 2236 RendererD3D11::setDisplayMode: adapter 0, output 0, left 0, top 0, width 2560, height 1440, fullscreen 0, backBufferCount 2, vsync 0, msaaSampleCount 1, msaaQualityLevel 0, refreshRate (164056/1000), scaling 0, scanlineOrdering 1, surfaceFormat 87, thread 2236
+[03:00:00.000] 2236 Enumerating available multisampling levels
+[03:00:00.000] 2236 MSAA 1X supported with 1 quality levels
+[03:00:00.000] 2236 MSAA 2X supported with 1 quality levels
+[03:00:00.000] 2236 MSAA 4X supported with 1 quality levels
+[03:00:00.000] 2236 MSAA 8X supported with 1 quality levels
+[03:00:00.000] 2236 Selecting requested multisampling count (1 samples, quality level 0)
+[03:00:00.000] 2236 Requested window resolution: 2560x1440
+[03:00:00.000] 2236 AppWindow::moveAndResize move from 0,0, to 0,0 and resize from 1024x768 to 2560x1440
+[03:00:00.000] 2236 WM_SIZE 1024x768 to 2560x1440
+[03:00:00.000] 2236 SIZE_RESTORED other (SetWindowPos, mSwapChain->SetFullscreenState...)
+[03:00:00.000] 2236 SIZE_RESTORED handle resize 1024x768 to 2560x1440
+[03:00:00.000] 2236 waitFrameDrawListExecutionEnd 0 -> 1
+[03:00:00.000] 2236 SwapChainImageBufferD3D11::resizeBuffers...
+[03:00:00.000] 2236 S	46669.94 SwapChainImageBufferD3D11::resizeBuffers cleaning back buffer view 000000002E26E238
+[03:00:00.000] 2236 SwapChainImageBufferD3D11::resizeBuffers(2560x1440)
+[03:00:00.000] 2236 SwapChainImageBufferD3D11::resizeBuffers(2560x1440)... 0
+[03:00:00.000] 2236 SwapChainImageBufferD3D11::prepareBackBuffers...
+[03:00:00.000] 2236 S	46671.66 SwapChainImageBufferD3D11::prepareBackBuffers cleaning back buffer view 0000000000000000
+[03:00:00.000] 2236 S	46671.90 SwapChainImageBufferD3D11 created back buffer view 000000002E270D78
+[03:00:00.000] 2236 SwapChainImageBufferD3D11::prepareBackBuffers...ok
+[03:00:00.000] 2236 SwapChainImageBufferD3D11::resizeBuffers...ok
+[03:00:00.000] 2236 RendererD3D11::restoreResolutionDependentDeviceResources...
+[03:00:00.000] 2236 RendererD3D11::restoreResolutionDependentDeviceResources...ok
+[03:00:00.000] 2236 enableFrameDrawListExecution 1 -> 1
+[03:00:00.000] 2236 SwapChainImageBufferD3D11::Cleanup cleaning back buffer view 000000002E270D78
+[03:00:00.000] 2236 SwapChainImageBufferD3D11::prepareBackBuffers...
+[03:00:00.000] 2236 S	46679.36 SwapChainImageBufferD3D11::prepareBackBuffers cleaning back buffer view 0000000000000000
+[03:00:00.000] 2236 S	46680.10 SwapChainImageBufferD3D11 created back buffer view 000000002E26FEF8
+[03:00:00.000] 2236 SwapChainImageBufferD3D11::prepareBackBuffers...ok
+[03:00:00.000] 2236 RendererD3D11::restoreResolutionDependentDeviceResources...
+[03:00:00.000] 2236 RendererD3D11::restoreResolutionDependentDeviceResources...ok
+[03:00:00.000] 2236 RendererD3D11::setDisplayMode finished
+[03:00:00.000] 13648 ObjectLOD::Load 2590
+[03:00:00.000] 13356 3D cockpit dat sets RTT canopy.
+[03:00:00.000] 15268 ObjectLOD::Load 1673
+[03:00:00.000] 7584 ObjectLOD::Load 3249
+[03:00:00.000] 16056 ObjectLOD::Load 3304
+[03:00:00.000] 8456 ObjectLOD::Load 6
+[03:00:00.000] 1852 ObjectLOD::Load 7
+[03:00:00.000] 4400 ObjectLOD::Load 3250
+[03:00:00.000] 13648 ObjectLOD::Load 3686
+[03:00:00.000] 7584 ObjectLOD::Load 1682
+[03:00:00.000] 8456 ObjectLOD::Load 8
+[03:00:00.000] 752 simcampDeaggregate 361 Yogang Bridge
+[03:00:00.000] 752 simcampDeaggregate 1527 Oro-up
+[03:00:00.000] 4400 ObjectLOD::Load 2167
+[03:00:00.000] 16056 ObjectLOD::Load 2166
+[03:00:00.000] 13648 ObjectLOD::Load 1866
+[03:00:00.000] 1852 ObjectLOD::Load 1885
+[03:00:00.000] 8456 ObjectLOD::Load 1884
+[03:00:00.000] 7584 ObjectLOD::Load 1888
+[03:00:00.000] 15268 ObjectLOD::Load 1841
+[03:00:00.000] 752 simcampDeaggregate 2049 Underground Factory
+[03:00:00.000] 752 simcampDeaggregate 1807 Changjin
+[03:00:00.000] 13648 ObjectLOD::Load 1839
+[03:00:00.000] 1852 ObjectLOD::Load 12
+[03:00:00.000] 8456 ObjectLOD::Load 210
+[03:00:00.000] 4400 ObjectLOD::Load 1840
+[03:00:00.000] 7584 ObjectLOD::Load 10
+[03:00:00.000] 752 simcampDeaggregate 355 Haebang Bridge
+[03:00:00.000] 752 simcampDeaggregate 1808 Haebang
+[03:00:00.000] 1852 ObjectLOD::Load 1892
+[03:00:00.000] 8456 ObjectLOD::Load 668
+[03:00:00.000] 15268 ObjectLOD::Load 1893
+[03:00:00.000] 7584 ObjectLOD::Load 1889
+[03:00:00.000] 752 simcampDeaggregate 356 Haebang Bridge
+[03:00:00.000] 752 simcampDeaggregate 20006 1974th Fighter Flight
+[03:00:00.000] 8456 ObjectLOD::Load 274
+[03:00:00.000] 15268 ObjectLOD::Load 1881
+[03:00:00.000] 16056 ObjectLOD::Load 267
+[03:00:00.000] 15268 ObjectLOD::Load 922
+[03:00:00.000] 752 simcampDeaggregate 20007 1976th Attack Flight
+[03:00:00.000] 13356 Flight deaggregation done... 0, 3644620
+[03:00:00.000] 13356 Attaching player to aircraft... 3644623
+[03:00:00.000] 1852 ObjectLOD::Load 1822
+[03:00:00.000] 8456 ObjectLOD::Load 341
+[03:00:00.000] 7584 ObjectLOD::Load 1833
+[03:00:00.000] 16056 ObjectLOD::Load 1858
+[03:00:00.000] 15268 ObjectLOD::Load 1865
+[03:00:00.000] 4400 ObjectLOD::Load 1832
+[03:00:00.000] 752 simcampDeaggregate 20008 1978th Bomber Flight
+[03:00:00.000] 13648 ObjectLOD::Load 1864
+[03:00:00.000] 1852 ObjectLOD::Load 1863
+[03:00:00.000] 8456 ObjectLOD::Load 271
+[03:00:00.000] 7584 ObjectLOD::Load 3847
+[03:00:00.000] 16056 ObjectLOD::Load 3846
+[03:00:00.000] 15268 ObjectLOD::Load 3845
+[03:00:00.000] 4400 ObjectLOD::Load 52
+[03:00:00.000] 13648 ObjectLOD::Load 51
+[03:00:00.000] 1852 ObjectLOD::Load 50
+[03:00:00.000] 7584 ObjectLOD::Load 49
+[03:00:00.000] 8456 ObjectLOD::Load 3356
+[03:00:00.000] 4400 ObjectLOD::Load 2577
+[03:00:00.000] 13648 ObjectLOD::Load 3280
+[03:00:00.000] 1852 ObjectLOD::Load 691
+[03:00:00.000] 4400 ObjectLOD::Load 3213
+[03:00:00.000] 7584 ObjectLOD::Load 1886
+[03:00:00.000] 8456 ObjectLOD::Load 1887
+[03:00:00.000] 13648 ObjectLOD::Load 1890
+[03:00:00.000] 1852 ObjectLOD::Load 285
+[03:00:00.000] 4400 ObjectLOD::Load 610
+[03:00:00.000] 1852 ObjectLOD::Load 3333
+[03:00:00.000] 8456 ObjectLOD::Load 609
+[03:00:00.000] 13648 ObjectLOD::Load 1857
+[03:00:00.000] 7584 ObjectLOD::Load 91
+[03:00:00.000] 4400 ObjectLOD::Load 918
+[03:00:00.000] 1852 ObjectLOD::Load 3392
+[03:00:00.000] 13648 ObjectLOD::Load 1919
+[03:00:00.000] 4400 ObjectLOD::Load 1918
+[03:00:00.000] 8456 ObjectLOD::Load 1915
+[03:00:00.000] 13648 ObjectLOD::Load 3424
+[03:00:00.000] 4400 ObjectLOD::Load 3423
+[03:00:00.000] 7584 ObjectLOD::Load 3422
+[03:00:00.000] 8456 ObjectLOD::Load 3421
+[03:00:00.000] 16056 ObjectLOD::Load 3419
+[03:00:00.000] 1852 ObjectLOD::Load 3418
+[03:00:00.000] 13648 ObjectLOD::Load 1882
+[03:00:00.000] 4400 ObjectLOD::Load 58
+[03:00:00.000] 15268 ObjectLOD::Load 57
+[03:00:00.000] 7584 ObjectLOD::Load 537
+[03:00:00.000] 16056 ObjectLOD::Load 2171
+[03:00:00.000] 13648 ObjectLOD::Load 821
+[03:00:00.000] 1852 ObjectLOD::Load 820
+[03:00:00.000] 13648 ObjectLOD::Load 0
+[03:00:00.000] 8456 ObjectLOD::Load 1091
+[03:00:00.000] 4400 ObjectLOD::Load 1090
+[03:00:00.000] 7584 ObjectLOD::Load 1089
+[03:00:00.000] 16056 ObjectLOD::Load 1088
+[03:00:00.000] 15268 ObjectLOD::Load 1092
+[03:00:00.000] 1852 ObjectLOD::Load 3689
+[03:00:00.000] 13648 ObjectLOD::Load 3688
+[03:00:00.000] 15268 ObjectLOD::Load 3687
+[03:00:00.000] 1852 ObjectLOD::Load 3018
+[03:00:00.000] 13648 ObjectLOD::Load 3017
+[03:00:00.000] 1852 ObjectLOD::Load 3059
+[03:00:00.000] 1852 ObjectLOD::Load 3058
+[03:00:00.000] 15268 ObjectLOD::Load 3006
+[03:00:00.000] 15268 ObjectLOD::Load 3005
+[03:00:00.000] 13648 ObjectLOD::Load 1666
+[03:00:00.000] 8456 ObjectLOD::Load 1665
+[03:00:00.000] 13648 ObjectLOD::Load 2474
+[03:00:00.000] 13648 ObjectLOD::Load 2473
+[03:00:00.000] 15268 ObjectLOD::Load 3057
+[03:00:00.000] 15268 ObjectLOD::Load 3056
+[03:00:00.000] 15268 ObjectLOD::Load 3055
+[03:00:00.000] 8456 ObjectLOD::Load 1615
+[03:00:00.000] 1852 ObjectLOD::Load 1614
+[03:00:00.000] 8456 ObjectLOD::Load 1613
+[03:00:00.000] 15268 ObjectLOD::Load 1612
+[03:00:00.000] 4400 ObjectLOD::Load 1655
+[03:00:00.000] 4400 ObjectLOD::Load 1654
+[03:00:00.000] 13356 Player 00000000B7EB5DA0
+[03:00:00.000] 752 Locking up the hounds 0x00000000B7EB5DA0 - setting invulnerable
+[03:00:00.000] 2236 CHAT Pagan entered arena
+[03:00:00.000] 13356 Splash 3
+[03:00:00.000] 13356 Waiting... (!TheLoader.LoaderQueueEmpty()) #1
+[03:00:00.000] 13356 Splash 4
+[03:00:00.000] 13356 SetFlyState 2
+[03:00:00.000] 13356 F4HearVoices();
+[03:00:00.000] 13356 WaitForSingleObject (wait_for_stop_graphics, 0xFFFFFFFF);
+[03:00:00.000] 752 Rendered First Frame
+[03:00:00.000] 752 TheWeather.Init();
+[03:00:00.000] 752 Releasing the player
+[03:00:00.000] 752 Releasing the hounds 0x00000000B7EB5DA0 - not invulnerable
+[03:00:00.000] 752 SetFlyState 3
+[03:00:00.000] 752 DTE: Load FCR
+[03:00:00.000] 752 DTE: Load IDM
+[03:00:00.000] 752 DTE: Load GPS
+[03:00:00.000] 752 DTE: Load MSMD
+[03:00:00.000] 752 DTE: Load PROF
+[03:00:00.000] 752 DTE: Load INV
+[03:00:00.000] 752 DTE: Load COMM
+[03:00:00.000] 752 DTE: Load MPD
+[03:00:00.000] 752 Warning: Bad TACAN Number -1
+[03:00:00.000] 752 DTE: Load CLSD
+[03:00:00.000] 752 DTE: Load ELINT
+[03:00:00.000] 752 DTE: Load from UI
